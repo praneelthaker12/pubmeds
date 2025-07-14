@@ -37,7 +37,7 @@ pubmeds/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pubmed-fetcher.git
+git clone (https://github.com/praneelthaker12/pubmeds)
 cd pubmed-fetcher
 ```
 
