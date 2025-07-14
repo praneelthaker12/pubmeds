@@ -82,5 +82,5 @@ poetry run get-papers-list "covid vaccine development" --file covid_results.csv 
 
 ## 🙋‍♂️ Author & Contact
 
-**Your Name**  
+Praneel Thaker
 Email: Praneelmthaker@gmail.com
